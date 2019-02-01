@@ -2,7 +2,7 @@ packing list
 -----------
 -shoes
 -coat
-
+- camera
 Picnic 
 --------
 -bread
